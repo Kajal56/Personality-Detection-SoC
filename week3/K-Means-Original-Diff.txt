@@ -1,0 +1,14 @@
+As we are given the data , that is already classified in some no. of classes. (eg 2 in case of first dataset1 , 10 in case of dataset5 and so on).
+Also, in the part 1,2,3 of the problem statement what we are doing is classifying the data in the same no. of classes as already classified but we are classifying using KMeans algorithm. 
+
+In part 4 of the problem, we are comparing our K-Mean classification and initially given classification. So following are the differences and the reason of differences :-
+
+
+---> The dataset for which the KMean and the original given classification is similar is dataset2 because in this dataset, already the data was classified according to the position on the plot.
+
+--->For dataset 5, the classifications are similar except some difference which occured because of random classification of centroids.
+
+--->For dataset 1,3,4,6 the difference is due to the fact that the original data is not clustered based on the distance and our KMeans algorithm clusters based on the distance, hence the difference.
+
+
+Note : for dataset2 also, the similarity is observed in a particular run due to random initialisation which can also be the reason of difference many of the times , so basically in case 2 and 5, the data is clustered distance wise so the KMeans and the original clustering should be similar but as we are randomising centroids randomly, we may not have similar classifications always.
