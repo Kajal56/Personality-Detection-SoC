@@ -1,6 +1,6 @@
 PERSONALITY DETECTION USING SOCIAL MEDIA (may'22 - july'22)
 
-This repository contains the material we ([Varre Suman Chaitanya](https://github.com/SumanChaitanyaVarre/ "Suman Chaitanya") and [Kajal Malik](https://github.com/Kajal56/ )) learnt through the SoC project and our code for the project. 
+This repository contains the material we ([Varre Suman Chaitanya](https://github.com/SumanChaitanyaVarre/ "Suman Chaitanya") and [Kajal Malik](https://github.com/Kajal56/ )) learnt through the SoC project (week 1, 2, 3) and our code (jupyter notebook) for the project. 
 
 DESCRIPTION:
 
