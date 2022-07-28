@@ -1,4 +1,4 @@
-PERSONALITY DETECTION USING SOCIAL MEDIA
+PERSONALITY DETECTION USING SOCIAL MEDIA (may'22 - july'22)
 
 This repository contains the material we ([Varre Suman Chaitanya](https://github.com/SumanChaitanyaVarre/ "Suman Chaitanya") and [Kajal Malik](https://github.com/Kajal56/ )) learnt through the SoC project and our code for the project. 
 
